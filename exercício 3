@@ -1,0 +1,21 @@
+Características dos Bancos de Dados Relacionais:
+
+Modelos de Dados Estruturados: Baseiam-se em um modelo de dados tabular, organizado em tabelas que consistem em linhas e colunas. Cada tabela possui um esquema bem definido que especifica a estrutura e o tipo de dados de cada coluna.
+
+Esquema Fixo: Requerem um esquema fixo e pré-definido para a estrutura das tabelas, que deve ser estabelecido antes da inserção dos dados. Isso garante a consistência e a integridade dos dados.
+
+Relacionamentos Complexos: Suportam relacionamentos entre tabelas através de chaves primárias e estrangeiras. Isso permite a criação de vínculos e associações complexas entre diferentes conjuntos de dados.
+
+Linguagem de Consulta SQL: Utilizam SQL (Structured Query Language) para realizar consultas, inserir, atualizar e excluir dados. A linguagem SQL é padronizada e amplamente utilizada em bancos de dados relacionais.
+
+
+
+Características dos Bancos de Dados Não Relacionais:
+
+Dados Não Estruturados ou Semi-Estruturados: São projetados para lidar com dados que não se ajustam bem ao modelo tabular tradicional, como documentos JSON, dados de mídia e logs de eventos. Esses dados podem ser estruturados de forma flexível.
+
+Escalabilidade Horizontal: Facilitam a escalabilidade horizontal, permitindo a distribuição de dados e cargas de trabalho entre múltiplos servidores. Isso é ideal para lidar com grandes volumes de dados e alta demanda de processamento.
+
+Alto Desempenho: São otimizados para aplicações que requerem acesso rápido a grandes volumes de dados, como redes sociais, sistemas de recomendação e jogos online. A arquitetura de muitos bancos NoSQL é projetada para oferecer alta performance em leitura e escrita.
+
+Desenvolvimento Ágil: Oferecem flexibilidade no desenvolvimento ao permitir a modelagem de dados sem a necessidade de um esquema fixo e rígido. Isso facilita a adaptação rápida a mudanças nos requisitos e estruturas de dados.
